@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "GitHub",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "FUNCTION_APP_EDIT_MODE": "readwrite",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "05e8b3bf-a41e-45b5-b9bb-1523fb5957ec",
+    "WEBSITE_NODE_DEFAULT_VERSION": "10.14.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=reminderbotwu8fd5;AccountKey=CHQL7lV5oTUjohCSKccdC0J6RMimjolMbpmBmGMnBTPlFpiMsQZue1c01P0+I8izbxY3p5cw5iNrK9G/HXtM4Q==",
+    "WEBSITE_CONTENTSHARE": "reminderbotwu8fd5",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "reminderbotwu",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=reminderbotwu8fd5;AccountKey=CHQL7lV5oTUjohCSKccdC0J6RMimjolMbpmBmGMnBTPlFpiMsQZue1c01P0+I8izbxY3p5cw5iNrK9G/HXtM4Q=="
+  }
+}
