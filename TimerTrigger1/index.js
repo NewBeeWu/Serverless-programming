@@ -15,6 +15,6 @@ module.exports = async function (context, myTimer) {
         mediaUrl: ['https://images.unsplash.com/photo-1545093149-618ce3bcf49d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80'],
         to: '+642102408840',
         from: '+16517608318',
-        body:'Hi there, It is time for lunch',
+        body:'Hi there, it is time for lunch',
     })   
 };
